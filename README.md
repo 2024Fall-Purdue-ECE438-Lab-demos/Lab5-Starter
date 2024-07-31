@@ -1,4 +1,4 @@
-# Lab 6b: Discrete Fourier Transform and Fast Fourier Transform Algorithms (Week 2)
+# Lab 5: Discrete Fourier Transform and Fast Fourier Transform Algorithms (Week 2)
 
 ## Getting Started
 
